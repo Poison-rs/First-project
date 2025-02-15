@@ -10,17 +10,61 @@
   margin-bottom: 244px;
 }
 
-body{
-}
-
 h4 {
   color: #E1624F;
+}
+
+h1 {
+  margin-bottom: 40px;
+}
+
+#imagem-inicial {
+  margin-bottom: 40px;
 }
 
 img {
   border-radius: 28px;
 }
 
+#descricao-turistica {
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+
 #subline {
   text-align:center;
+}
+
+#historia {
+  color: #0C51A7;
+}
+
+#casais {
+  color: #591B98;
+}
+
+#familias {
+  color: #e5245e;
+}
+
+#orcamento {
+  color: #e95e10;
+}
+
+section section {
+  margin-top: 40px;
+}
+
+#final {
+  text-align: center;
+}
+
+footer {
+  font-family: "Alice", serif;
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
 }
