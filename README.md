@@ -1,1 +1,0 @@
-Alguns desses projetos foram só testes, o projeto principal a ser analisado está na pasta "outro projeto". Se puderem dar uma ajuda falando o que esqueci de colocar e o que poderia melhorar ja ficaria bem feliz, obrigado :)
